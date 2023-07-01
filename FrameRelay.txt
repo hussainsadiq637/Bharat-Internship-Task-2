@@ -92,3 +92,6 @@ clock rate 64000
 frame-relay route 541 int s1/0 145 
 no shut 
 exit
+
+
+1234567890 -----MULLA SADIQ HUSSAIN
